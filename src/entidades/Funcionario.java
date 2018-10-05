@@ -13,7 +13,7 @@ public class Funcionario {
 
 	private Departamento departamento;
 
-	private List<ContratoHora> contrato = new ArrayList();
+	private List<ContratoHora> contrato = new ArrayList<>();
 
 	public Funcionario() {
 
